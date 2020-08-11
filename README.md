@@ -1,4 +1,4 @@
-# Newline - Building GraphQL Server WithTypescript 👨‍💻
+# Newline - Building GraphQL Server With Typescript 👨‍💻
 
 This course contains three core modules (i.e. chapters) that introduce and explain specific topics.
 
